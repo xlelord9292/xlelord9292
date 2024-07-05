@@ -21,7 +21,7 @@ Check out some of my projects:
 - **[DDos Guardian](https://ddos-guardian.xyz/):** DDoS Guardian is my advanced but very strong DDoS Protection company which can serve heavy ddos attacks from destroying your server or website.
 
 ### Get in Touch
-- **Discord:** [Join My Discord](https://discord.com/invite/your-invite-link](https://discord.gg/yvb9QQywFk)
+- **Discord:** [Join My Discord](https://discord.gg/yvb9QQywFk)
 - **GitHub:** [@xlelord9292](https://github.com/xlelord9292)
-- **Portfolio:** [@Relational Throne](https://github.com/xlelord9292](https://relational-throne.xyz/)
+- **Portfolio:** [@Relational Throne](https://relational-throne.xyz/)
 ---

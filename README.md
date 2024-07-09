@@ -11,8 +11,8 @@
 Hello! I'm xlelord9292, a passionate coder always looking to learn and improve my skills. Currently, I'm diving deeper into JavaScript to build even cooler projects.
 
 ### Skills
-- **Languages:** JavaScript, Next JS, Lua, SH, Bash
-- **Frameworks:** React, Node.js
+- **Languages:** JavaScript, Lua, SH, Bash
+- **Frameworks:** Next JS
 - **Tools:** Git, Nginx, DDoS Guardian, SH
 
 ### Projects

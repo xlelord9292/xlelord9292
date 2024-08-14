@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m **@xlelord9292**
 ### 👀 **Interests:** Coding, Cybersecurity
 ### 🌱 **Currently Learning:** Advanced JavaScript (JS)
-### 📫 **Contact Me:** [Join My Discord](https://discord.gg/yvb9QQywFk)
+### 📫 **Contact Me:** [Join My Discord](https://discord.gg/UCAGjNTwCh)
 ### 😄 **Pronouns:** He/Him
 ### ⚡ **Fun Fact:** I'm cool 😎
 

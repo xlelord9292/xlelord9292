@@ -25,3 +25,5 @@ Check out some of my projects:
 - **GitHub:** [@xlelord9292](https://github.com/xlelord9292)
 - **Portfolio:** [@Relational Throne](https://relational-throne.xyz/)
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xlelords9292)](https://git.io/streak-stats)
